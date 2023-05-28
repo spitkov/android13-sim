@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA-256-Digest-Manifest: DRBKhSa8IsNETU9yEGTVFGTq6qbIsMRV6mD9skthZSY=
+SHA-256-Digest-Manifest: Cu3KNKlgaQwszq0/T+O2mHcSCAGQPp1IikKs7mLaGuE=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA-256-Digest: vTfSxjg/MTFM6C48DdmW593yZgMXTbUIzUsreFlt6Uo=
+SHA-256-Digest: 9Hy8IDP1foMgKF74/6AzC9iPbangAHBugkzZ9WhiYe8=
 
 Name: classes.dex
 SHA-256-Digest: GRnGv4ZrxbNSW/5n69ox5XNsgpal0KdC2sgFpHqsSRc=
@@ -16,7 +16,7 @@ Name: classes3.dex
 SHA-256-Digest: JZKQB3XUmPHzz7wR1uF4hFOLHZKyUzd9XVkNyAJi9uM=
 
 Name: classes4.dex
-SHA-256-Digest: 85t+Y/0dmt4wvcZiVpYz2CiEwIL1Lf/OVwl9zmuDaSg=
+SHA-256-Digest: 1MQEQML4wt2AyBNTcYfaYoBHg34/CA2ofBn1WInHNVw=
 
 Name: res/drawable-xhdpi-v4/android.png
 SHA-256-Digest: tN3ZuA6kBr9Aemdcd9Vq745auHmXMZfEqa6FWPoo6OA=
@@ -102,14 +102,23 @@ SHA-256-Digest: q1hl1SX12u8EzK20hZUK9w4dwsuhLVCTD0kcucJV0zI=
 Name: res/drawable-xhdpi-v4/ic_expand_more_white.png
 SHA-256-Digest: /N7m2QCvwSRcZqzNuQ5nY1cnoYzF7/fZYwrpduZdggw=
 
+Name: res/drawable-xhdpi-v4/ic_signal_cellular_no_sim_white.png
+SHA-256-Digest: l3SeFTrleLr09jVo9rxBcwoK6qbY/dgBuMKe+hQDE+E=
+
 Name: res/drawable-xhdpi-v4/ic_signal_cellular_off_white.png
 SHA-256-Digest: JljtT4KdwrKkAY9Zi/B89XkJhg1IeQ/SqxuaocYg1kc=
 
 Name: res/drawable-xhdpi-v4/ic_signal_wifi_off_white.png
 SHA-256-Digest: hyABJiT/H9mca8FSeZ1hHzZR/S7JmWac4S+Mg38jGdE=
 
+Name: res/drawable-xhdpi-v4/ic_volume_mute_white.png
+SHA-256-Digest: xEQizJ/BdcMRFeB35244oeWMZOphykXIIdq/Zw61ogw=
+
 Name: res/drawable-xhdpi-v4/messages.png
 SHA-256-Digest: 4k2CnXYIa2ix8Q3ZhovrEu9vLWlce6O5XHAuwSalmEg=
+
+Name: res/drawable-xhdpi-v4/messagess.png
+SHA-256-Digest: Hl9e9MLxePTkCh4+gbFOgSMXQBzpYlgejmHC9Q7ktDA=
 
 Name: res/drawable-xhdpi-v4/music.png
 SHA-256-Digest: qq41V2baCKNWfTz7iZAWNWPie5C9m0iU4A25VPv/nyk=
@@ -139,38 +148,38 @@ Name: res/drawable-xhdpi-v4/youtubesearch.png
 SHA-256-Digest: iyRQ3hiu0cLBjln9MLC4mhMkDiviji0/YHsZ0HmMFXM=
 
 Name: res/layout/adrod13installer.xml
-SHA-256-Digest: FV9FKcno3SU228xzHSE0AJSQJuHt/kOQZt2j3+EYI+U=
+SHA-256-Digest: aNiTzGJYi9FfB8Cf/51nBQcWa95RPqd9UfuBtcf7KJA=
 
 Name: res/layout/bricked.xml
-SHA-256-Digest: wgiBVzAcqonIdlp1yQM/WuJA5LrjTvfyIede07J7ZLc=
+SHA-256-Digest: +RxE5RZ9YR323m2K3mr3R5s3OCXo1B3MmoWUFWn0pkw=
 
 Name: res/layout/clock.xml
-SHA-256-Digest: q3PtrT6YIRt3d7KD5up+3w4ritQfGjBXC5Md8VMSs5I=
+SHA-256-Digest: lPL1HBg6L2Y7F/NNpAimeM+xxjNynyskYgmTCm9EXSg=
 
 Name: res/layout/google.xml
-SHA-256-Digest: XTpoRJwTbt8R/qf+X/AHT7NjUbVFG2UsbXVR1ccYaL8=
-
-Name: res/layout/googlesearch.xml
-SHA-256-Digest: nspElDJltGesP6IGu257exVjWa20xskKXekBxOhBUzw=
+SHA-256-Digest: ZuvhCVQfogp6VrwGS9649cSWuIQEWmjOWmLXAjREoq8=
 
 Name: res/layout/homescreen.xml
-SHA-256-Digest: IABf8o+DCLu3mQaQlR6oyprZDl38nAL89lIU3NF8BK4=
+SHA-256-Digest: MQYV0bBNK3Xf/3H1WyWaWrrZxREWezjmmSQxNPw+WBo=
 
 Name: res/layout/main.xml
-SHA-256-Digest: 0YjWycCF7Zg3wmkM0NB/S8vWI48Yft8KPDt5jtjyeBY=
+SHA-256-Digest: yArRyNrl8ACrexD067KTgBt6iRuFq914qOZK19CF99k=
+
+Name: res/layout/messages.xml
+SHA-256-Digest: nmqkX6pUFlcuX8cq8gpWmLiKnCjAPw96i4uLbwyeNU0=
 
 Name: res/layout/moreapps.xml
-SHA-256-Digest: Ia1EI6wTAFRrCEjARKQnASM3th1D/vdRF5aq0bJ+Mcs=
+SHA-256-Digest: G6m5VL6atfqOhpkkIpHs3hyTMJC2y/SLFxlXzvZkRdQ=
 
 Name: res/layout/swipedownbar.xml
-SHA-256-Digest: tiJPwxSTSM8XaQHdPO9zMnPS4QTPd0Y6KVfVaTE84Ko=
+SHA-256-Digest: yANHcQYtdCMr3HhAQv7BnL/8R1WO3U2MImG/cmGqUjg=
 
 Name: res/layout/wallpaper.xml
-SHA-256-Digest: lqhbNLJ7873wifZDER9m3VxQv7k7r9gINchCaa/ifhQ=
+SHA-256-Digest: dnKXZ3T+dhHhAOscBbcRTMkSnDT675skEwezhDAQYvQ=
 
 Name: res/layout/youtube.xml
-SHA-256-Digest: DK+ydyTBM9rYNIb46xTWunhCOnOpQjfbQUvNDdTb/LQ=
+SHA-256-Digest: Lg9dTinz/hUK9CbmGcvIQdrSTgPvHaA+Wm8qDadaCKs=
 
 Name: resources.arsc
-SHA-256-Digest: Li0cWLSLqje72cl9xwfssDhyCa2TyuC5OwAZEfNAuDY=
+SHA-256-Digest: /fkg7WGOkZCzc5MOd+dij2lsV7FXk8QqLt8V/W5+Uc0=
 
