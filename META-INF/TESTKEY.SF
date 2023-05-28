@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA-256-Digest-Manifest: Cu3KNKlgaQwszq0/T+O2mHcSCAGQPp1IikKs7mLaGuE=
+SHA-256-Digest-Manifest: Eur6PI9W3GeHB9Vb2eHmCEzOz1YPwzGMg0BzeeB+dYM=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
-SHA-256-Digest: 9Hy8IDP1foMgKF74/6AzC9iPbangAHBugkzZ9WhiYe8=
+SHA-256-Digest: JYTLasL9q2RKP6cqyW5rMrBMtoSH8rGS+8YbmU6gQMI=
 
 Name: classes.dex
 SHA-256-Digest: GRnGv4ZrxbNSW/5n69ox5XNsgpal0KdC2sgFpHqsSRc=
@@ -16,7 +16,7 @@ Name: classes3.dex
 SHA-256-Digest: JZKQB3XUmPHzz7wR1uF4hFOLHZKyUzd9XVkNyAJi9uM=
 
 Name: classes4.dex
-SHA-256-Digest: 1MQEQML4wt2AyBNTcYfaYoBHg34/CA2ofBn1WInHNVw=
+SHA-256-Digest: kTq+QvOp8SDdZ7FpCsnhjb9SLk5MDZuTjUM6f473xVU=
 
 Name: res/drawable-xhdpi-v4/android.png
 SHA-256-Digest: tN3ZuA6kBr9Aemdcd9Vq745auHmXMZfEqa6FWPoo6OA=
@@ -150,11 +150,14 @@ SHA-256-Digest: iyRQ3hiu0cLBjln9MLC4mhMkDiviji0/YHsZ0HmMFXM=
 Name: res/layout/adrod13installer.xml
 SHA-256-Digest: aNiTzGJYi9FfB8Cf/51nBQcWa95RPqd9UfuBtcf7KJA=
 
+Name: res/layout/androideasteregg.xml
+SHA-256-Digest: l1W+pTLeXaEiHjSc2o7yeO9RlhkuLlwUY5bXg+BwaVs=
+
 Name: res/layout/bricked.xml
 SHA-256-Digest: +RxE5RZ9YR323m2K3mr3R5s3OCXo1B3MmoWUFWn0pkw=
 
 Name: res/layout/clock.xml
-SHA-256-Digest: lPL1HBg6L2Y7F/NNpAimeM+xxjNynyskYgmTCm9EXSg=
+SHA-256-Digest: CH9DqsAPE3k5Eife6RpkWNlGH8PiZPQRCoi6cGqn1is=
 
 Name: res/layout/google.xml
 SHA-256-Digest: ZuvhCVQfogp6VrwGS9649cSWuIQEWmjOWmLXAjREoq8=
@@ -171,8 +174,11 @@ SHA-256-Digest: nmqkX6pUFlcuX8cq8gpWmLiKnCjAPw96i4uLbwyeNU0=
 Name: res/layout/moreapps.xml
 SHA-256-Digest: G6m5VL6atfqOhpkkIpHs3hyTMJC2y/SLFxlXzvZkRdQ=
 
+Name: res/layout/settings.xml
+SHA-256-Digest: MRgiSd7AdrA7b+e657xLj21kI4nkug9oChmkhB28X1A=
+
 Name: res/layout/swipedownbar.xml
-SHA-256-Digest: yANHcQYtdCMr3HhAQv7BnL/8R1WO3U2MImG/cmGqUjg=
+SHA-256-Digest: sAKixS6EfP3LiQ79Dk9/F4Dm5e7kGrkUhkV3hMlCaYI=
 
 Name: res/layout/wallpaper.xml
 SHA-256-Digest: dnKXZ3T+dhHhAOscBbcRTMkSnDT675skEwezhDAQYvQ=
@@ -181,5 +187,5 @@ Name: res/layout/youtube.xml
 SHA-256-Digest: Lg9dTinz/hUK9CbmGcvIQdrSTgPvHaA+Wm8qDadaCKs=
 
 Name: resources.arsc
-SHA-256-Digest: /fkg7WGOkZCzc5MOd+dij2lsV7FXk8QqLt8V/W5+Uc0=
+SHA-256-Digest: iIBvpmAAWTT2jup5TG14adZar04Ufs6bdEggyM23a5g=
 
