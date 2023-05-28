@@ -1,0 +1,176 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: DRBKhSa8IsNETU9yEGTVFGTq6qbIsMRV6mD9skthZSY=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: vTfSxjg/MTFM6C48DdmW593yZgMXTbUIzUsreFlt6Uo=
+
+Name: classes.dex
+SHA-256-Digest: GRnGv4ZrxbNSW/5n69ox5XNsgpal0KdC2sgFpHqsSRc=
+
+Name: classes2.dex
+SHA-256-Digest: g7hE6CGxVbcxHzMh9Y+lYZSyXGHhCESiDWApZEDqMg0=
+
+Name: classes3.dex
+SHA-256-Digest: JZKQB3XUmPHzz7wR1uF4hFOLHZKyUzd9XVkNyAJi9uM=
+
+Name: classes4.dex
+SHA-256-Digest: 85t+Y/0dmt4wvcZiVpYz2CiEwIL1Lf/OVwl9zmuDaSg=
+
+Name: res/drawable-xhdpi-v4/android.png
+SHA-256-Digest: tN3ZuA6kBr9Aemdcd9Vq745auHmXMZfEqa6FWPoo6OA=
+
+Name: res/drawable-xhdpi-v4/android13.png
+SHA-256-Digest: rrZQw25MET61qEyWtIPgN46jo7t68HsyZWLP2IpvyFA=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: zTcpPT8tXEy3Rrr90LlBJeILpvDIsTHPj9SHcbOcY4E=
+
+Name: res/drawable-xhdpi-v4/bootlogo.png
+SHA-256-Digest: 3VHcywWvymLqfILysXAMK2W7H2Nma5KdcjaL/8ciKUo=
+
+Name: res/drawable-xhdpi-v4/camera_1.png
+SHA-256-Digest: +M2GUWtnkeL2a0VrpJOs2l2FwxY95pTn872RbrUkTrI=
+
+Name: res/drawable-xhdpi-v4/camera_2.png
+SHA-256-Digest: uU1xJjICARsuvVXNRWpXuPdHQu/b3s6bVpnGoI9QvvQ=
+
+Name: res/drawable-xhdpi-v4/camera_3.png
+SHA-256-Digest: OGf7VrYw31gJUME5TAOu5Ay3tjIz/0xZFF8T/CgCFDA=
+
+Name: res/drawable-xhdpi-v4/chrome.png
+SHA-256-Digest: lXU8p6wxjMHslCPmzpgUjl2FPtKgFxH+WWAIlfxPJ7Y=
+
+Name: res/drawable-xhdpi-v4/clearapps.png
+SHA-256-Digest: J4TnlLk//Z1ksTIRaKJvDIERywA+3YwjmvF+H6hbSqA=
+
+Name: res/drawable-xhdpi-v4/contacts.png
+SHA-256-Digest: 97QHx0q3uLlcTE/v0ZH38k3h+61ZeRAWxY6W/12Jjzc=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/drawable-xhdpi-v4/filemanager.png
+SHA-256-Digest: 7IOhH4m1kzopXLL3umym3tO1AJqER8SPGhugmtQEUD4=
+
+Name: res/drawable-xhdpi-v4/gallery.png
+SHA-256-Digest: OQafyJ3ydBbdkDGNq6ixOlB7uILa6VuD8U8nWUtQyXI=
+
+Name: res/drawable-xhdpi-v4/gesturectrl.png
+SHA-256-Digest: 1NYYc33m6nhvneCKE9spt//CCJ7nIgTTIQGtdurXXfM=
+
+Name: res/drawable-xhdpi-v4/google.png
+SHA-256-Digest: Z0myFmLL9OFg5jrvmJxJL01/RRG75yy/Hd9pFNm1/UY=
+
+Name: res/drawable-xhdpi-v4/googlebar.png
+SHA-256-Digest: 1m9pWpE+5O1bZsSym29AUKyExJdjbuYppbTMR+mnd04=
+
+Name: res/drawable-xhdpi-v4/googlesearch.png
+SHA-256-Digest: E/u+/5eZQEVoC9Vmjd/tZZtPtwdZnPFn13lkuDal33I=
+
+Name: res/drawable-xhdpi-v4/gplay.png
+SHA-256-Digest: ltBmoHR8kEq7pO6LIuA/XuXmkmGMRTEZarsBojItJFk=
+
+Name: res/drawable-xhdpi-v4/ic_battery_20_white.png
+SHA-256-Digest: c2UnG5UTCayRcydYgI3HW0bup3b3wE2xCQ/okemIrek=
+
+Name: res/drawable-xhdpi-v4/ic_battery_30_white.png
+SHA-256-Digest: TYKqy4pUr5HSJUdqILYOn8um7yUsUhoVYUFWvf0+M6s=
+
+Name: res/drawable-xhdpi-v4/ic_battery_50_white.png
+SHA-256-Digest: CDhAbxEdpsipOipYBw7pbesejwpza9xmvDPek4me/u8=
+
+Name: res/drawable-xhdpi-v4/ic_battery_60_white.png
+SHA-256-Digest: jRd3JJDqfWpLSDtoMWZtI0x+L7se7BCCPJ7EXYhAnvs=
+
+Name: res/drawable-xhdpi-v4/ic_battery_80_white.png
+SHA-256-Digest: 79yGFRxeZK21XWpksoEIPNDgYsLWqgEi5kwcKlKdHaw=
+
+Name: res/drawable-xhdpi-v4/ic_battery_90_white.png
+SHA-256-Digest: rEK0+2G5UqGpMDQBhj0/QHfjlGOluXcxA68T5A/iNQA=
+
+Name: res/drawable-xhdpi-v4/ic_battery_full_white.png
+SHA-256-Digest: PgGcbHfyeocesdvUbCefurnMVvQhUFoR3NzG9FoVI/I=
+
+Name: res/drawable-xhdpi-v4/ic_battery_unknown_white.png
+SHA-256-Digest: qW+Iln6CRGNxRy4qft5q5rWKvjcQUcKEl4sm+KV2zKo=
+
+Name: res/drawable-xhdpi-v4/ic_expand_less_white.png
+SHA-256-Digest: q1hl1SX12u8EzK20hZUK9w4dwsuhLVCTD0kcucJV0zI=
+
+Name: res/drawable-xhdpi-v4/ic_expand_more_white.png
+SHA-256-Digest: /N7m2QCvwSRcZqzNuQ5nY1cnoYzF7/fZYwrpduZdggw=
+
+Name: res/drawable-xhdpi-v4/ic_signal_cellular_off_white.png
+SHA-256-Digest: JljtT4KdwrKkAY9Zi/B89XkJhg1IeQ/SqxuaocYg1kc=
+
+Name: res/drawable-xhdpi-v4/ic_signal_wifi_off_white.png
+SHA-256-Digest: hyABJiT/H9mca8FSeZ1hHzZR/S7JmWac4S+Mg38jGdE=
+
+Name: res/drawable-xhdpi-v4/messages.png
+SHA-256-Digest: 4k2CnXYIa2ix8Q3ZhovrEu9vLWlce6O5XHAuwSalmEg=
+
+Name: res/drawable-xhdpi-v4/music.png
+SHA-256-Digest: qq41V2baCKNWfTz7iZAWNWPie5C9m0iU4A25VPv/nyk=
+
+Name: res/drawable-xhdpi-v4/notifbar.png
+SHA-256-Digest: 5t5OfhaU3INjH5e/WYY74kMrkCpR4b1DfP8JYCMzc7E=
+
+Name: res/drawable-xhdpi-v4/phone.png
+SHA-256-Digest: DN0IbzUsw+xgWqhs9cur2t0SyYC9Y0UtgTrbuvwDZG8=
+
+Name: res/drawable-xhdpi-v4/settings.png
+SHA-256-Digest: AexkVCcAxgZfzMmPuyOyts2hgATdzVvQzmCdcWdpemc=
+
+Name: res/drawable-xhdpi-v4/wallpaper.png
+SHA-256-Digest: ftDrTfVxcyaZssB5q9JFfCbRYBgejZcO+PsXH4NLNiM=
+
+Name: res/drawable-xhdpi-v4/wallpapermoreapps.png
+SHA-256-Digest: bJjosL30JamTdFkxn+Myduv6vJwp9WQjDCwH2vIqjAk=
+
+Name: res/drawable-xhdpi-v4/youtube.png
+SHA-256-Digest: Lkvk/0SrscRFz7C2hgn56LWWZM+ies/WnCGq+kBG8xk=
+
+Name: res/drawable-xhdpi-v4/youtubee.png
+SHA-256-Digest: e0uyPF3NSlVN8QvoZD4CfeHz8CYjkaOGU8YXCnORnh0=
+
+Name: res/drawable-xhdpi-v4/youtubesearch.png
+SHA-256-Digest: iyRQ3hiu0cLBjln9MLC4mhMkDiviji0/YHsZ0HmMFXM=
+
+Name: res/layout/adrod13installer.xml
+SHA-256-Digest: FV9FKcno3SU228xzHSE0AJSQJuHt/kOQZt2j3+EYI+U=
+
+Name: res/layout/bricked.xml
+SHA-256-Digest: wgiBVzAcqonIdlp1yQM/WuJA5LrjTvfyIede07J7ZLc=
+
+Name: res/layout/clock.xml
+SHA-256-Digest: q3PtrT6YIRt3d7KD5up+3w4ritQfGjBXC5Md8VMSs5I=
+
+Name: res/layout/google.xml
+SHA-256-Digest: XTpoRJwTbt8R/qf+X/AHT7NjUbVFG2UsbXVR1ccYaL8=
+
+Name: res/layout/googlesearch.xml
+SHA-256-Digest: nspElDJltGesP6IGu257exVjWa20xskKXekBxOhBUzw=
+
+Name: res/layout/homescreen.xml
+SHA-256-Digest: IABf8o+DCLu3mQaQlR6oyprZDl38nAL89lIU3NF8BK4=
+
+Name: res/layout/main.xml
+SHA-256-Digest: 0YjWycCF7Zg3wmkM0NB/S8vWI48Yft8KPDt5jtjyeBY=
+
+Name: res/layout/moreapps.xml
+SHA-256-Digest: Ia1EI6wTAFRrCEjARKQnASM3th1D/vdRF5aq0bJ+Mcs=
+
+Name: res/layout/swipedownbar.xml
+SHA-256-Digest: tiJPwxSTSM8XaQHdPO9zMnPS4QTPd0Y6KVfVaTE84Ko=
+
+Name: res/layout/wallpaper.xml
+SHA-256-Digest: lqhbNLJ7873wifZDER9m3VxQv7k7r9gINchCaa/ifhQ=
+
+Name: res/layout/youtube.xml
+SHA-256-Digest: DK+ydyTBM9rYNIb46xTWunhCOnOpQjfbQUvNDdTb/LQ=
+
+Name: resources.arsc
+SHA-256-Digest: Li0cWLSLqje72cl9xwfssDhyCa2TyuC5OwAZEfNAuDY=
+
